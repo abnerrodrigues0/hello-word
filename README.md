@@ -1,1 +1,6 @@
-# hello-word
+# hello-word!
+
+
+Hj iniciamos estudos de Django.
+
+
